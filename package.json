@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/epenicela/EuroMilRegister/issues"
   },
-  "homepage": "https://github.com/epenicela/EuroMilRegister#readme"
+  "homepage": "https://github.com/epenicela/EuroMilRegister#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.7.5",
+    "express": "^4.18.2",
+    "grpc": "^1.24.11",
+    "protobufjs": "^7.2.2"
+  }
 }
